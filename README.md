@@ -1,4 +1,4 @@
-# gerador-qrcodes
+# Gerador de QRcodes 
 Gerador de codigos qr com HTML, CSS e JS
 
 Você pode testar online!
